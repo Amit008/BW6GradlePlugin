@@ -11,7 +11,7 @@ $ scoop install gradle<br>
 Chocolatey is “the package manager for Windows”.<br>
 $ choco install gradle<br>
 Linux<br>
-Install with a package manager
-SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.
+Install with a package manager<br>
+SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.<br>
 $ sdk install gradle 4.10.2
 
