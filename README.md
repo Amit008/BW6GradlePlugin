@@ -6,4 +6,12 @@
 <br>Setup Gradle in your environment.</br>
 MacOSX<br>
 Windows<br>
+Scoop is a command-line installer for Windows inspired by Homebrew.
+$ scoop install gradle
+Chocolatey is “the package manager for Windows”.
+$ choco install gradle<br>
 Linux<br>
+Install with a package manager
+SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.
+$ sdk install gradle 4.10.2
+
