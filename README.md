@@ -15,5 +15,8 @@ $ choco install gradle<br>
 <b>Linux<br></b>
 Install with a package manager<br>
 SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.<br>
-$ sdk install gradle 4.10.2
+$ sdk install gradle 4.10.<br>
+
+<b>Install manually you can check
+  https://gradle.org/install/
 
