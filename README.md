@@ -4,7 +4,7 @@
 
 
 <br>Setup Gradle in your environment.</br>
-<b>MacOSX<br>
+<b>MacOSX<br></b>
 <b>Windows<br></b>
 Scoop is a command-line installer for Windows inspired by Homebrew.<br>
 $ scoop install gradle<br>
