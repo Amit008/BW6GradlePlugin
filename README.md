@@ -4,7 +4,4 @@
 
 <br>
 <br>
-<br>
-<br>
-
 Setup Gradle in your environment.
