@@ -6,9 +6,9 @@
 <br>Setup Gradle in your environment.</br>
 MacOSX<br>
 Windows<br>
-Scoop is a command-line installer for Windows inspired by Homebrew.
-$ scoop install gradle
-Chocolatey is “the package manager for Windows”.
+Scoop is a command-line installer for Windows inspired by Homebrew.<br>
+$ scoop install gradle<br>
+Chocolatey is “the package manager for Windows”.<br>
 $ choco install gradle<br>
 Linux<br>
 Install with a package manager
