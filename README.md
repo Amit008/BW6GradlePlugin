@@ -5,3 +5,6 @@
 <br>
 <br>
 <b>Setup Gradle in your environment.</b>
+MacOSX<br>
+Windows<br>
+Linux<br>
