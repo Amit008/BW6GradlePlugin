@@ -5,6 +5,8 @@
 
 <br>Setup Gradle in your environment.</br>
 <b>MacOSX<br></b>
+Homebrew is one of the option as a package manager for macOS.
+$ brew install gradle
 <b>Windows<br></b>
 Scoop is a command-line installer for Windows inspired by Homebrew.<br>
 $ scoop install gradle<br>
