@@ -17,6 +17,6 @@ Install with a package manager<br>
 SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix-based systems.<br>
 $ sdk install gradle 4.10.<br>
 
-<b>Install manually you can check
+<b>Install manually you can check Gradle installation page as well<br>
   https://gradle.org/install/
 
