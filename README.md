@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<br>Setup Gradle in your environment.</b>
+<br>Setup Gradle in your environment.</br>
 MacOSX<br>
 Windows<br>
 Linux<br>
