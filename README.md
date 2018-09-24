@@ -19,4 +19,7 @@ $ sdk install gradle 4.10.<br>
 
 <b>Install manually you can check Gradle installation page as well<br>
   https://gradle.org/install/
+  
+  <b>Available Task From BW6GradlePlugin to ease the CI/CD task:</br></b>
+  
 
